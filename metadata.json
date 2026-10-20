@@ -1,0 +1,8 @@
+{
+  "name": "AstroVerse — Explore Your Cosmic Story",
+  "description": "Aplikasi astrologi modern yang interaktif, estetik, dan elegan untuk menjelajahi zodiak, peta kelahiran (birth chart), ramalan harian, kecocokan kosmik, serta edukasi astrologi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
